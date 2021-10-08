@@ -1,0 +1,15 @@
+.container {
+    height: 800px;
+    width: 800px;
+    display: grid;
+    grid-gap: 5px;
+    margin-top: 50px;
+}
+
+.grid {
+    background-color: yellow;
+}
+
+.grid-on-hover {
+    background-color: red;
+}
